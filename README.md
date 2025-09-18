@@ -11,7 +11,7 @@ My name is **Putu Adi Saputra** I love to challenge new things, I'm very interes
 <br/>
 
 ### こんにちは！
-はじめまして**サプトラ　プツアディ**と申します、新しいことに挑戦するのが好きでWeb開発、Android開発、またゲーム開発にも非常に興味があります。
+はじめまして**サプトラ　プツーアディ**と申します、新しいことに挑戦するのが好きでWeb開発、Android開発、またゲーム開発にも非常に興味があります。
 
 <br>
 
